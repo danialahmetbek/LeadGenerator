@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.0.0",
+    "@google-cloud/storage": "^5.14.0",
+    "fs": "^0.0.2",
+    "path": "^0.12.7",
+    "nodemailer": "^6.7.2",
+    "html-entities": "^2.3.3",
+    "imap-simple": "^5.1.0",
+    "iconv-lite": "^0.6.3"
+  },
+  "type": "module"
+}
