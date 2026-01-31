@@ -6,11 +6,17 @@
 
 ***
 
-# Lead Generation Pipeline 🚀
+<div align="center">
+
+# 🚀 Lead Generation Pipeline
+
+[![Node.js](https://img.shields.io/badge/Node.js-v20+-4F46E5?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
 **Automated B2B lead generation pipeline using 7 GCP Cloud Run microservices, Google Places API, GPT-4o, Claude Sonnet, and serverless architecture**
 
-***
+</div>
+
+---
 
 ## 🏗️ Architecture (7 Microservices)
 ```mermaid
