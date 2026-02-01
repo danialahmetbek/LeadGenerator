@@ -141,7 +141,7 @@ Web Scraping Pipeline:
 ## 👨‍💻 Author
 
 **Danial Akhmetbek**  
-[LinkedIn](https://www.linkedin.com/in/danial-undefined-73b230385/) | [danial.ahmetbek@gmail.com](mailto:danial.ahmetbek@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/danial-akhmetbek-73b230385/) | [danial.ahmetbek@gmail.com](mailto:danial.ahmetbek@gmail.com)
 
 [![Status][status-badge]][status-url]
 
